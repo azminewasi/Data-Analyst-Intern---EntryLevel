@@ -1,0 +1,39 @@
+Mission 3.2 - Data Cleaning
+
+Good data is essential when using data to derive insights and make business decisions.
+
+Garbage in, garbage out, is a concept common to computer science and mathematics that can be applied in Data Analysis -  the quality of output (your insights generated) are determined by the quality of the input.
+
+This is where Data cleaning comes in - Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted.
+
+Data cleaning plays an important role in the analytical process and making sure that the answers we uncover are reliable and of a high quality.
+
+We will be going through a few functions to clean our data in excel.
+
+
+Task
+Use the below functions to clean your data.
+
+
+1) Remove duplicates
+
+Select the entire data sheet data to remove duplicates from.
+
+Data > Remove Duplicates
+
+2) Removing blank cells
+
+Select the entire sheet or dataset and go to Data > Create a filter
+Click on the Filter icon at the top of any column, then click on Filter by condition and select ‘is empty’.
+Blank cells will arise to the top of the sheet and can be removed.
+
+3) Headers
+
+Ensure you have clear and concise names for headers and use dashes or underscores in between words to make it easier to parse later on.
+
+4) Find and replace
+
+If you examine the data, you will see that the Web Development subject title is not the same as other subject titles. Use the Find and Replace function to make the Web Development subject consistent with other subjects.
+
+Edit > Find and Replace
+

@@ -1,0 +1,22 @@
+Mission 3.1 - Data Sources
+Data comes from multiple sources, and data analysts often gather data from multiple sources and combine these for data analysis. The process of gathering data from these sources and presenting it is called data consolidation. Data consolidation is a crucial step, as the accuracy of the insights from your data analysis depends heavily on the quality of data used.
+
+
+Task 
+Download the data sheets below and consolidate them on Google Sheets.
+
+*Note that some of the data provided has been manipulated for the purposes of this course
+
+
+Data Sheet Udemy Courses - Business Courses.csv218.5KB
+Data Sheet Udemy Courses - Design Courses.csv109.0KB
+Data Sheet Udemy Courses - Music Courses.csv126.9KB
+Data Sheet Udemy Courses - Web Development.csv231.8KB
+
+
+Uploading to Google Sheets
+
+Open Google Sheets
+Open or create a sheet and click File > Import. Import the first file above as ‘Replace spreadsheet.’
+For following rows select the ‘Append rows to current sheet’ option when importing.
+You will see that not all of the data is consistent or clean. We will be working on this in the next module.
